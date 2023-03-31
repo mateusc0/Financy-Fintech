@@ -1,0 +1,38 @@
+.contact-box{
+    background-color: #21E870;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+    border-radius: 30px;
+}
+
+.send-button{
+    background-color: #25273C;
+    color: aliceblue;
+    border-color: transparent;
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.send-button:hover{
+    background-color: aliceblue;
+    color: #25273C;
+    border-color: transparent;
+    border-radius: 20px;
+}
+.send-button:active{
+    background-color: #25273C;
+    color: aliceblue;
+    border-color: transparent;
+}
+
+.contact-label{
+    padding-top: 20px;
+}
+
+.ct-input-box{
+    border-radius: 20px;
+}
+
+.bt-text{
+    margin-bottom: 3px;
+}

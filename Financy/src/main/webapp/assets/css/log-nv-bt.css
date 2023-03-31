@@ -1,0 +1,30 @@
+.login{
+    width: 200px;
+    border-color: #21E870;
+    color: #21E870;
+    border-radius: 20px;
+}
+
+.bt{
+    margin-right: 10vw;
+}
+
+.btn-outline:focus{
+    background-color: #21E870 !important;
+    color: #25273C !important;
+    box-shadow: none !important;
+}
+
+.btn-outline:hover{
+    background-color: aliceblue !important;
+    color: #25273C !important;
+    box-shadow: none !important;
+    border-color: aliceblue !important;
+}
+
+.btn-outline:active{
+    background-color: #21E870 !important;
+    color: #25273C !important;
+    box-shadow: none !important;
+    border-color: #21E870 !important;
+}

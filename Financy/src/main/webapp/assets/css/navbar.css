@@ -1,0 +1,28 @@
+.logo{
+    font-size: 30px;
+    font-weight: 200;
+    padding-top: 5px;
+}
+
+.col-3 a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.col-3 a:hover{
+    color: #21E870;
+    transition: 0.4s;
+}
+.col-3 a:active{
+    color:aliceblue;
+    transition: none;
+}
+.header-null{
+    transition: 0.5s;
+    background-color: transparent;   
+}
+
+.header-scrolled{
+    transition: 0.5s;
+    background-color: #25273C;   
+}

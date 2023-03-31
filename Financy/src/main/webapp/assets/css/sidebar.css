@@ -1,0 +1,62 @@
+.sidebar{
+    background-color: #25273C;
+    width: 40vw;
+}
+
+.sidebar-header{
+    padding-top: 15vh;
+    min-width: 100px;
+    font-size: 30px;
+}
+
+.sidebar-close{
+    margin-top: 10px;
+}
+
+.sidebar-title{
+    font-size: 50px;
+}
+
+.sidebar-label{
+    padding-top: 20px;
+}
+
+.log-sd-bt{
+    background-color: #21E870;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: transparent;
+}
+.log-sd-bt a{
+    color: #25273C;
+}
+
+.log-sd-bt a span{
+    padding-top: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.log-sd-bt{
+    background-color: #21E870;
+
+}
+
+.log-sd-bt:hover{
+    background-color: aliceblue;
+    border-color: transparent;
+}
+
+.log-sd-bt:active{
+    background-color: #21E870;
+
+}
+
+.sign-up-link{
+    margin-top: 40px;
+}
+
+.disabled{
+    pointer-events: none;
+    color: gray;
+}
